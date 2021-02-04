@@ -1,4 +1,4 @@
-#BaseOS
+# BaseOS
 BaseOS is the simplist x86 64 bit os. Currently it is only assembly but there are plans for compiled C. This is not meant to be an actual OS, just something to mess around with or to use as a bootloader for your own stuff.
 # Setup
 ## Windows 10
